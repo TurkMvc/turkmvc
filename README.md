@@ -1,6 +1,6 @@
 # Merhaba, Benim Profilim 👋
 
-Ben [Adınız Soyadınız], bir yazılım geliştiriciyim ve aşağıdaki teknolojilerde uzmanım:
+Ben [Cuma KÖSE], bir yazılım geliştiriciyim ve aşağıdaki teknolojilerde uzmanım:
 
 - C#
 - .NET
