@@ -2,9 +2,9 @@
 FullStack .Net Developper | Backend .Net Developper
 I am Cuma KÖSE, a software developer and I specialize in the following technologies:
 
--C#
--.NET
--MVC
+- C#
+- NET
+- MVC
 - Web API
 - Angular
 - SQL (MSSQL, MySQL, PostgreSQL)
