@@ -20,7 +20,7 @@ I also have experience using the following ORM (Object-Relational Mapping) frame
 ## Architectures
 My experience with software architectures includes:
 
--Clean Architecture
+- Clean Architecture
 - Onion Architecture
 -Simple Architecture
 
