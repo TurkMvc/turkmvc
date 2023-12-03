@@ -1,6 +1,6 @@
 # 💫 About Me:
-FullStack .Net Developper | Backend .Net Developper
-I am Cuma KÖSE, a software developer and I specialize in the following technologies:
+## FullStack .Net Developper | Backend .Net Developper
+### I am Cuma KÖSE, a software developer and I specialize in the following technologies:
 
 - C#
 - NET
