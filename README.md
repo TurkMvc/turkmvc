@@ -1,6 +1,5 @@
-# FullStack .Net Developper | Backend .Net Developper
-- I am Cuma KÖSE, a software developer and I specialize in the following technologies:
-# 💻 Tech Stack:
+# I am Cuma KÖSE, a software developer and I specialize in the following technologies:
+## 💻 FullStack .Net Developper | Backend .Net Developper
 
 ## Programming Language
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
