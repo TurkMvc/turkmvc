@@ -1,6 +1,6 @@
 # 📇 Merhaba Ben CUMA KÖSE
 
-## 📞 İLETİŞİM BİLGİLERİ
+## 📞 İLETİŞİM BİLGİLERİM
 - LinkedIn: [linkedin.com/in/turkmvc](https://www.linkedin.com/in/turkmvc)
 
 ## 🎯 KARİYER HEDEFİM
